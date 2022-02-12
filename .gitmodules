@@ -1,3 +1,9 @@
 [submodule "external/fizz"]
 	path = external/fizz
 	url = https://github.com/facebookincubator/fizz.git
+[submodule "external/openssl"]
+	path = external/openssl
+	url = https://github.com/openssl/openssl.git
+[submodule "external/folly"]
+	path = external/folly
+	url = https://github.com/facebook/folly.git
